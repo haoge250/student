@@ -1,0 +1,4 @@
+1、git clone url
+2、cd 目录
+3、git remote add origin https://github.com/haoge250/student.git
+4、git push origin main
